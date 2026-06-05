@@ -1,0 +1,14 @@
+streamlit
+pandas
+torch
+transformers
+neo4j
+networkx
+pyvis
+sastrawi
+scikit-learn-intelex
+scikit-learn
+numpy
+ipython
+joblib
+spacy
